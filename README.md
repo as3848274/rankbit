@@ -7,8 +7,8 @@ Add your domain, monitor keyword rankings, visualize progress with charts, and l
 
 ## 🔗 Preview  
 
-**Live Site** → [https://rankbit.vercel.app/](#)  
-**Repo** → [https://github.com/kartikey2004-git/Rankbit](#)  
+**Live Site** → [https://rankbit-fawn.vercel.app/](#)  
+**Repo** → [https://github.com/as3848274/rankbit](#)  
 
 ---
 
